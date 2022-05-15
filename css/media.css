@@ -3,6 +3,12 @@
         width: 90%;
     }
 }
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 1024px) {
+
+}
 @media (max-width: 992px) {
     .works-block {
         width: 278px;
@@ -22,4 +28,19 @@
         flex-direction: column;
         padding: 50px 0;
     }
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 576px) {
+
+}
+@media (max-width: 414px) {
+
+}
+@media (max-width: 375px) {
+
+}
+@media (max-width: 320px) {
+
 }
