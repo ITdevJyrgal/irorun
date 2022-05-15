@@ -1,0 +1,30 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+        border: 1px solid;
+    }
+}
+
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 992px) {
+    .works-block {
+        width: 278px;
+    }
+    .header-nav {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero {
+        justify-content: center;
+        flex-direction: column;
+    }
+}
